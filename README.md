@@ -6,9 +6,9 @@ You will find two .py files:
 - <strong>static.py</strong> where faces are found on pictures the user provide. Could be easily developed to search for specific faces using a training set of pictures. 
 - <strong>dynamic.py</strong> where faces are found on a live webcam video stream. 
 
-I warmly suggest you to create a virtual environment before installing the libraries since versioning can cause a lot of conflicts
+I warmly suggest you to create a virtual environment before installing the libraries since versioning can cause a lot of conflicts.
 
-<em> python -m conda create --name myenv </em>
+Anaconda snippet: <em> python -m conda create --name myenv </em>
 
 I used a specific distro of Open CV:
 
