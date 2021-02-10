@@ -3,16 +3,16 @@
 
 You will find two .py files: 
 
-- static.py where faces are found on pictures the user provide. Could be easily developed to search for specific faces using a training set of pictures. 
-- dynamic.py where faces are found on a live webcam video stream. 
+- <strong>static.py</strong> where faces are found on pictures the user provide. Could be easily developed to search for specific faces using a training set of pictures. 
+- <strong>dynamic.py</strong> where faces are found on a live webcam video stream. 
 
 I warmly suggest you to create a virtual environment before installing the libraries since versioning can cause a lot of conflicts
 
-python -m conda create --name myenv
+<em> python -m conda create --name myenv </em>
 
 I used a specific distro of Open CV:
 
-pip install opencv-contrib-python==4.1.0.25
+<em> pip install opencv-contrib-python==4.1.0.25 </em>
 
 Probably a fast\more efficient way to perform such tasks could be to install the face_recognition library but since it requires Visual Studio and at the moment I don't have it installed on my machine, I did without it. 
 
