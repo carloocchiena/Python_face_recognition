@@ -3,7 +3,7 @@
 
 You will find two .py files: 
 
-- <strong>static.py</strong> where faces are found on pictures the user provide. Could be easily developed to search for specific faces using a training set of pictures. 
+- <strong>static.py</strong> where faces are found on pictures the user provide. Could be further developed to search for specific faces using a training set of pictures. 
 - <strong>dynamic.py</strong> where faces are found on a live webcam video stream. 
 
 I warmly suggest you to create a virtual environment before installing the libraries since versioning can cause a lot of conflicts.
