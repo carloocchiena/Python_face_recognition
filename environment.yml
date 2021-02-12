@@ -1,0 +1,7 @@
+name: visuals
+dependencies:
+  - cv2
+  - sys
+  - logging
+  - datetime
+  - time
