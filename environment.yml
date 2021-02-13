@@ -1,0 +1,8 @@
+channels:
+  - defaults
+dependencies:
+  - cv2
+  - sys
+  - logging
+  - datetime
+  - time
